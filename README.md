@@ -1,2 +1,3 @@
 # kc.github.io
-This is a test repository for GitHub Profile
+Hi,
+This is Krishna Chaitanya an aspiring Data Scientist
